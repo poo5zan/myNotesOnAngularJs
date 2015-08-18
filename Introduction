@@ -1,19 +1,35 @@
-
 Introduction:
-AngularJs is the framework for building responsive, client-side web applications. With it's neat integration with HTML, it's emphasis on clean programming techniques, and it's easy to use services, it is the perfect choice for developing those full featured business applications on the web.
+AngularJs is the framework for building responsive, client-side web applications. With it's neat integration
+with HTML, it's emphasis on clean programming techniques, and it's easy to use services, it is the perfect
+choice for developing those full featured business applications on the web.
 This introduction answers three basic questions,
 1. Why use Angular?
 2. What are the key factors in building a line of business application?
 3. How is a line of business Application built with Angular? What are the steps required to build an angular line of business application 
 
 Why?
-So, management decides that application for key business operations now willl be on the web or in the cloud, that will allow the company personnel to use the application on a pad device, while walking around the plant or warehouse, on a phone when out of the office, on a laptop from home, and ofcourse from the computer on their desk, and it's your job to make it all happen. If you have ever looked at the web development with trapidation , especially when building the types of interactive business application that users expect, you may have wished that their may have a better way. With Angular, your wish is granted, angular can help you love web development, 
+So, management decides that application for key business operations now willl be on the web or in the cloud,
+that will allow the company personnel to use the application on a pad device, while walking around the plant
+or warehouse, on a phone when out of the office, on a laptop from home, and ofcourse from the computer on
+their desk, and it's your job to make it all happen. If you have ever looked at the web development with
+trapidation , especially when building the types of interactive business application that users expect, you
+may have wished that their may have a better way. With Angular, your wish is granted, angular can help you
+love web development, 
+
 [pointing to the slide]
 * angularjs is a client-side javascript framework for building interactive web applications
 * angular brings simple and clean back to the development of complex web applications
 * angular is originally developed by google and is not open source
 
 WHY Angular?
-So, lets answer the question, Here are the top reasons why angular should be the tool of choice for building line of business applications on the web.
-*Expressive HTML: angular helps make your HTML expressive. As developers, we often spend much more time reading code than writing at. so making the code clean and readable improves our overall productivity. Angular extends HTML giving it simple logic like if-statements and repeat loop. This makes the HTML expressive and easier to read and leads to less errors and easier maintenance over time
-* Modularity: angular is modular, angular guides developer into a modular approach to building web applications. Even complex business applications can be divided into manageable units. So, no matter how large the application goes over time, the code stays clean, controllable and testable
+So, lets answer the question, Here are the top reasons why angular should be the tool of choice for building
+line of business applications on the web.
+
+*Expressive HTML: angular helps make your HTML expressive. As developers, we often spend much more time
+reading code than writing at. so making the code clean and readable improves our overall productivity.
+Angular extends HTML giving it simple logic like if-statements and repeat loop. This makes the HTML
+expressive and easier to read and leads to less errors and easier maintenance over time
+
+* Modularity: angular is modular, angular guides developer into a modular approach to building web
+applications. Even complex business applications can be divided into manageable units. So, no matter
+how large the application goes over time, the code stays clean, controllable and testable
